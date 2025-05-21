@@ -1,4 +1,5 @@
 ﻿using ScreenSound.Modelos;
+using ScreenSound.Shared.Dados.Banco;
 using System;
 using System.Collections.Generic;
 using System.Linq;

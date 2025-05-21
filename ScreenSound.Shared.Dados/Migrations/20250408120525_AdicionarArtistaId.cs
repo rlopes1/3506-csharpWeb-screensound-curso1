@@ -24,7 +24,7 @@ namespace ScreenSound.Migrations
 
             migrationBuilder.Sql("UPDATE Musicas SET ArtistaId = 2 WHERE Id = 7");
 
-            migrationBuilder.Sql("UPDATE Artistas SET Id = 5 WHERE Id = 7");
+            //migrationBuilder.Sql("UPDATE Artistas SET Id = 5 WHERE Id = 7");
 
 
 
