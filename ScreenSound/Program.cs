@@ -1,6 +1,7 @@
 ﻿using ScreenSound.Banco;
 using ScreenSound.Menus;
 using ScreenSound.Modelos;
+using ScreenSound.Shared.Dados.Banco;
 
 
 
